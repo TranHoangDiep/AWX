@@ -1,4 +1,4 @@
---
+---
 - name: "Run the playbook for AWS resources provisioning."
   hosts: localhost
   vars:
